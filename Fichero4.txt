@@ -1,0 +1,8 @@
+CREATE TABLE persona (
+dni VARCHAR(10) PRIMARY KEY,
+nombre  VARCHAR(20) NOT NULL,
+edad tinint,
+altura numeric(5.2)
+nacimineto DATE,
+suedo float
+);
